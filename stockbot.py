@@ -24,4 +24,4 @@ async def on_message(message):
         except:
             await message.channel.send("Bruh")
 
-client.run('NzkzOTI1NTQ1OTA1NzUwMDI2.X-zWyA.7cKpIEs8bbgTtzByWBGxy0ct3jw')
+client.run('PUT TOKEN HERE')
